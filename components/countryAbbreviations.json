@@ -1,0 +1,1002 @@
+[
+    {
+        "abbreviation": "MRT",
+        "country": "Mauritania"
+    },
+    {
+        "abbreviation": "ABW",
+        "country": "Aruba"
+    },
+    {
+        "abbreviation": "ARG",
+        "country": "Argentina"
+    },
+    {
+        "abbreviation": "SWE",
+        "country": "Sweden"
+    },
+    {
+        "abbreviation": "MDV",
+        "country": "Maldives"
+    },
+    {
+        "abbreviation": "MEX",
+        "country": "Mexico"
+    },
+    {
+        "abbreviation": "NZL",
+        "country": "New Zealand"
+    },
+    {
+        "abbreviation": "ECU",
+        "country": "Ecuador"
+    },
+    {
+        "abbreviation": "WLF",
+        "country": "Wallis and Futuna"
+    },
+    {
+        "abbreviation": "ALA",
+        "country": "Åland Islands"
+    },
+    {
+        "abbreviation": "MNE",
+        "country": "Montenegro"
+    },
+    {
+        "abbreviation": "PAK",
+        "country": "Pakistan"
+    },
+    {
+        "abbreviation": "PCN",
+        "country": "Pitcairn Islands"
+    },
+    {
+        "abbreviation": "ZMB",
+        "country": "Zambia"
+    },
+    {
+        "abbreviation": "SYC",
+        "country": "Seychelles"
+    },
+    {
+        "abbreviation": "MYS",
+        "country": "Malaysia"
+    },
+    {
+        "abbreviation": "NOR",
+        "country": "Norway"
+    },
+    {
+        "abbreviation": "UZB",
+        "country": "Uzbekistan"
+    },
+    {
+        "abbreviation": "VUT",
+        "country": "Vanuatu"
+    },
+    {
+        "abbreviation": "ATF",
+        "country": "French Southern and Antarctic Lands"
+    },
+    {
+        "abbreviation": "CXR",
+        "country": "Christmas Island"
+    },
+    {
+        "abbreviation": "SGP",
+        "country": "Singapore"
+    },
+    {
+        "abbreviation": "SUR",
+        "country": "Suriname"
+    },
+    {
+        "abbreviation": "ESH",
+        "country": "Western Sahara"
+    },
+    {
+        "abbreviation": "MAF",
+        "country": "Saint Martin"
+    },
+    {
+        "abbreviation": "CRI",
+        "country": "Costa Rica"
+    },
+    {
+        "abbreviation": "HMD",
+        "country": "Heard Island and McDonald Islands"
+    },
+    {
+        "abbreviation": "IRL",
+        "country": "Ireland"
+    },
+    {
+        "abbreviation": "ATA",
+        "country": "Antarctica"
+    },
+    {
+        "abbreviation": "AUS",
+        "country": "Australia"
+    },
+    {
+        "abbreviation": "LBY",
+        "country": "Libya"
+    },
+    {
+        "abbreviation": "QAT",
+        "country": "Qatar"
+    },
+    {
+        "abbreviation": "GRL",
+        "country": "Greenland"
+    },
+    {
+        "abbreviation": "MUS",
+        "country": "Mauritius"
+    },
+    {
+        "abbreviation": "KAZ",
+        "country": "Kazakhstan"
+    },
+    {
+        "abbreviation": "IOT",
+        "country": "British Indian Ocean Territory"
+    },
+    {
+        "abbreviation": "ALB",
+        "country": "Albania"
+    },
+    {
+        "abbreviation": "BHR",
+        "country": "Bahrain"
+    },
+    {
+        "abbreviation": "PNG",
+        "country": "Papua New Guinea"
+    },
+    {
+        "abbreviation": "BDI",
+        "country": "Burundi"
+    },
+    {
+        "abbreviation": "IND",
+        "country": "India"
+    },
+    {
+        "abbreviation": "URY",
+        "country": "Uruguay"
+    },
+    {
+        "abbreviation": "LCA",
+        "country": "Saint Lucia"
+    },
+    {
+        "abbreviation": "BRB",
+        "country": "Barbados"
+    },
+    {
+        "abbreviation": "NCL",
+        "country": "New Caledonia"
+    },
+    {
+        "abbreviation": "LVA",
+        "country": "Latvia"
+    },
+    {
+        "abbreviation": "EST",
+        "country": "Estonia"
+    },
+    {
+        "abbreviation": "NIU",
+        "country": "Niue"
+    },
+    {
+        "abbreviation": "BLM",
+        "country": "Saint Barthélemy"
+    },
+    {
+        "abbreviation": "PRI",
+        "country": "Puerto Rico"
+    },
+    {
+        "abbreviation": "GRD",
+        "country": "Grenada"
+    },
+    {
+        "abbreviation": "MAC",
+        "country": "Macau"
+    },
+    {
+        "abbreviation": "CYP",
+        "country": "Cyprus"
+    },
+    {
+        "abbreviation": "IMN",
+        "country": "Isle of Man"
+    },
+    {
+        "abbreviation": "GRC",
+        "country": "Greece"
+    },
+    {
+        "abbreviation": "SYR",
+        "country": "Syria"
+    },
+    {
+        "abbreviation": "LTU",
+        "country": "Lithuania"
+    },
+    {
+        "abbreviation": "CUW",
+        "country": "Curaçao"
+    },
+    {
+        "abbreviation": "DMA",
+        "country": "Dominica"
+    },
+    {
+        "abbreviation": "NER",
+        "country": "Niger"
+    },
+    {
+        "abbreviation": "KGZ",
+        "country": "Kyrgyzstan"
+    },
+    {
+        "abbreviation": "TTO",
+        "country": "Trinidad and Tobago"
+    },
+    {
+        "abbreviation": "TGO",
+        "country": "Togo"
+    },
+    {
+        "abbreviation": "PSE",
+        "country": "Palestine"
+    },
+    {
+        "abbreviation": "MDG",
+        "country": "Madagascar"
+    },
+    {
+        "abbreviation": "HRV",
+        "country": "Croatia"
+    },
+    {
+        "abbreviation": "FRO",
+        "country": "Faroe Islands"
+    },
+    {
+        "abbreviation": "HTI",
+        "country": "Haiti"
+    },
+    {
+        "abbreviation": "MSR",
+        "country": "Montserrat"
+    },
+    {
+        "abbreviation": "COK",
+        "country": "Cook Islands"
+    },
+    {
+        "abbreviation": "TLS",
+        "country": "Timor-Leste"
+    },
+    {
+        "abbreviation": "MTQ",
+        "country": "Martinique"
+    },
+    {
+        "abbreviation": "CUB",
+        "country": "Cuba"
+    },
+    {
+        "abbreviation": "TWN",
+        "country": "Taiwan"
+    },
+    {
+        "abbreviation": "SWZ",
+        "country": "Eswatini"
+    },
+    {
+        "abbreviation": "UKR",
+        "country": "Ukraine"
+    },
+    {
+        "abbreviation": "BMU",
+        "country": "Bermuda"
+    },
+    {
+        "abbreviation": "KOR",
+        "country": "South Korea"
+    },
+    {
+        "abbreviation": "PER",
+        "country": "Peru"
+    },
+    {
+        "abbreviation": "IRQ",
+        "country": "Iraq"
+    },
+    {
+        "abbreviation": "MDA",
+        "country": "Moldova"
+    },
+    {
+        "abbreviation": "SMR",
+        "country": "San Marino"
+    },
+    {
+        "abbreviation": "VEN",
+        "country": "Venezuela"
+    },
+    {
+        "abbreviation": "GUY",
+        "country": "Guyana"
+    },
+    {
+        "abbreviation": "CYM",
+        "country": "Cayman Islands"
+    },
+    {
+        "abbreviation": "KHM",
+        "country": "Cambodia"
+    },
+    {
+        "abbreviation": "CCK",
+        "country": "Cocos (Keeling) Islands"
+    },
+    {
+        "abbreviation": "MLT",
+        "country": "Malta"
+    },
+    {
+        "abbreviation": "LKA",
+        "country": "Sri Lanka"
+    },
+    {
+        "abbreviation": "ISR",
+        "country": "Israel"
+    },
+    {
+        "abbreviation": "SDN",
+        "country": "Sudan"
+    },
+    {
+        "abbreviation": "VIR",
+        "country": "United States Virgin Islands"
+    },
+    {
+        "abbreviation": "ERI",
+        "country": "Eritrea"
+    },
+    {
+        "abbreviation": "MLI",
+        "country": "Mali"
+    },
+    {
+        "abbreviation": "SOM",
+        "country": "Somalia"
+    },
+    {
+        "abbreviation": "NFK",
+        "country": "Norfolk Island"
+    },
+    {
+        "abbreviation": "COM",
+        "country": "Comoros"
+    },
+    {
+        "abbreviation": "NIC",
+        "country": "Nicaragua"
+    },
+    {
+        "abbreviation": "RUS",
+        "country": "Russia"
+    },
+    {
+        "abbreviation": "UGA",
+        "country": "Uganda"
+    },
+    {
+        "abbreviation": "NRU",
+        "country": "Nauru"
+    },
+    {
+        "abbreviation": "CHE",
+        "country": "Switzerland"
+    },
+    {
+        "abbreviation": "PRT",
+        "country": "Portugal"
+    },
+    {
+        "abbreviation": "TJK",
+        "country": "Tajikistan"
+    },
+    {
+        "abbreviation": "SSD",
+        "country": "South Sudan"
+    },
+    {
+        "abbreviation": "BVT",
+        "country": "Bouvet Island"
+    },
+    {
+        "abbreviation": "FSM",
+        "country": "Micronesia"
+    },
+    {
+        "abbreviation": "ASM",
+        "country": "American Samoa"
+    },
+    {
+        "abbreviation": "CZE",
+        "country": "Czechia"
+    },
+    {
+        "abbreviation": "BWA",
+        "country": "Botswana"
+    },
+    {
+        "abbreviation": "TUN",
+        "country": "Tunisia"
+    },
+    {
+        "abbreviation": "AIA",
+        "country": "Anguilla"
+    },
+    {
+        "abbreviation": "GNB",
+        "country": "Guinea-Bissau"
+    },
+    {
+        "abbreviation": "SVK",
+        "country": "Slovakia"
+    },
+    {
+        "abbreviation": "MHL",
+        "country": "Marshall Islands"
+    },
+    {
+        "abbreviation": "DZA",
+        "country": "Algeria"
+    },
+    {
+        "abbreviation": "JAM",
+        "country": "Jamaica"
+    },
+    {
+        "abbreviation": "MOZ",
+        "country": "Mozambique"
+    },
+    {
+        "abbreviation": "ESP",
+        "country": "Spain"
+    },
+    {
+        "abbreviation": "HND",
+        "country": "Honduras"
+    },
+    {
+        "abbreviation": "NLD",
+        "country": "Netherlands"
+    },
+    {
+        "abbreviation": "ZAF",
+        "country": "South Africa"
+    },
+    {
+        "abbreviation": "AZE",
+        "country": "Azerbaijan"
+    },
+    {
+        "abbreviation": "MKD",
+        "country": "North Macedonia"
+    },
+    {
+        "abbreviation": "GMB",
+        "country": "Gambia"
+    },
+    {
+        "abbreviation": "LBR",
+        "country": "Liberia"
+    },
+    {
+        "abbreviation": "LUX",
+        "country": "Luxembourg"
+    },
+    {
+        "abbreviation": "CPV",
+        "country": "Cape Verde"
+    },
+    {
+        "abbreviation": "BHS",
+        "country": "Bahamas"
+    },
+    {
+        "abbreviation": "GEO",
+        "country": "Georgia"
+    },
+    {
+        "abbreviation": "KIR",
+        "country": "Kiribati"
+    },
+    {
+        "abbreviation": "TZA",
+        "country": "Tanzania"
+    },
+    {
+        "abbreviation": "CHN",
+        "country": "China"
+    },
+    {
+        "abbreviation": "GTM",
+        "country": "Guatemala"
+    },
+    {
+        "abbreviation": "STP",
+        "country": "São Tomé and Príncipe"
+    },
+    {
+        "abbreviation": "DEU",
+        "country": "Germany"
+    },
+    {
+        "abbreviation": "SLE",
+        "country": "Sierra Leone"
+    },
+    {
+        "abbreviation": "TCD",
+        "country": "Chad"
+    },
+    {
+        "abbreviation": "GBR",
+        "country": "United Kingdom"
+    },
+    {
+        "abbreviation": "SVN",
+        "country": "Slovenia"
+    },
+    {
+        "abbreviation": "THA",
+        "country": "Thailand"
+    },
+    {
+        "abbreviation": "IDN",
+        "country": "Indonesia"
+    },
+    {
+        "abbreviation": "MNP",
+        "country": "Northern Mariana Islands"
+    },
+    {
+        "abbreviation": "GUM",
+        "country": "Guam"
+    },
+    {
+        "abbreviation": "FIN",
+        "country": "Finland"
+    },
+    {
+        "abbreviation": "MYT",
+        "country": "Mayotte"
+    },
+    {
+        "abbreviation": "GIB",
+        "country": "Gibraltar"
+    },
+    {
+        "abbreviation": "TKM",
+        "country": "Turkmenistan"
+    },
+    {
+        "abbreviation": "UNK",
+        "country": "Kosovo"
+    },
+    {
+        "abbreviation": "CIV",
+        "country": "Ivory Coast"
+    },
+    {
+        "abbreviation": "MAR",
+        "country": "Morocco"
+    },
+    {
+        "abbreviation": "DOM",
+        "country": "Dominican Republic"
+    },
+    {
+        "abbreviation": "GHA",
+        "country": "Ghana"
+    },
+    {
+        "abbreviation": "VAT",
+        "country": "Vatican City"
+    },
+    {
+        "abbreviation": "JEY",
+        "country": "Jersey"
+    },
+    {
+        "abbreviation": "TUR",
+        "country": "Turkey"
+    },
+    {
+        "abbreviation": "TUV",
+        "country": "Tuvalu"
+    },
+    {
+        "abbreviation": "IRN",
+        "country": "Iran"
+    },
+    {
+        "abbreviation": "EGY",
+        "country": "Egypt"
+    },
+    {
+        "abbreviation": "DNK",
+        "country": "Denmark"
+    },
+    {
+        "abbreviation": "KEN",
+        "country": "Kenya"
+    },
+    {
+        "abbreviation": "BGR",
+        "country": "Bulgaria"
+    },
+    {
+        "abbreviation": "ZWE",
+        "country": "Zimbabwe"
+    },
+    {
+        "abbreviation": "AGO",
+        "country": "Angola"
+    },
+    {
+        "abbreviation": "NGA",
+        "country": "Nigeria"
+    },
+    {
+        "abbreviation": "POL",
+        "country": "Poland"
+    },
+    {
+        "abbreviation": "SEN",
+        "country": "Senegal"
+    },
+    {
+        "abbreviation": "SHN",
+        "country": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+        "abbreviation": "LBN",
+        "country": "Lebanon"
+    },
+    {
+        "abbreviation": "WSM",
+        "country": "Samoa"
+    },
+    {
+        "abbreviation": "PHL",
+        "country": "Philippines"
+    },
+    {
+        "abbreviation": "GGY",
+        "country": "Guernsey"
+    },
+    {
+        "abbreviation": "SLV",
+        "country": "El Salvador"
+    },
+    {
+        "abbreviation": "KWT",
+        "country": "Kuwait"
+    },
+    {
+        "abbreviation": "TON",
+        "country": "Tonga"
+    },
+    {
+        "abbreviation": "OMN",
+        "country": "Oman"
+    },
+    {
+        "abbreviation": "AFG",
+        "country": "Afghanistan"
+    },
+    {
+        "abbreviation": "KNA",
+        "country": "Saint Kitts and Nevis"
+    },
+    {
+        "abbreviation": "CAF",
+        "country": "Central African Republic"
+    },
+    {
+        "abbreviation": "SRB",
+        "country": "Serbia"
+    },
+    {
+        "abbreviation": "ARM",
+        "country": "Armenia"
+    },
+    {
+        "abbreviation": "BGD",
+        "country": "Bangladesh"
+    },
+    {
+        "abbreviation": "LAO",
+        "country": "Laos"
+    },
+    {
+        "abbreviation": "CHL",
+        "country": "Chile"
+    },
+    {
+        "abbreviation": "PYF",
+        "country": "French Polynesia"
+    },
+    {
+        "abbreviation": "PAN",
+        "country": "Panama"
+    },
+    {
+        "abbreviation": "USA",
+        "country": "United States"
+    },
+    {
+        "abbreviation": "NPL",
+        "country": "Nepal"
+    },
+    {
+        "abbreviation": "MMR",
+        "country": "Myanmar"
+    },
+    {
+        "abbreviation": "FLK",
+        "country": "Falkland Islands"
+    },
+    {
+        "abbreviation": "HUN",
+        "country": "Hungary"
+    },
+    {
+        "abbreviation": "PLW",
+        "country": "Palau"
+    },
+    {
+        "abbreviation": "GNQ",
+        "country": "Equatorial Guinea"
+    },
+    {
+        "abbreviation": "GIN",
+        "country": "Guinea"
+    },
+    {
+        "abbreviation": "ARE",
+        "country": "United Arab Emirates"
+    },
+    {
+        "abbreviation": "TCA",
+        "country": "Turks and Caicos Islands"
+    },
+    {
+        "abbreviation": "VGB",
+        "country": "British Virgin Islands"
+    },
+    {
+        "abbreviation": "LIE",
+        "country": "Liechtenstein"
+    },
+    {
+        "abbreviation": "BIH",
+        "country": "Bosnia and Herzegovina"
+    },
+    {
+        "abbreviation": "MWI",
+        "country": "Malawi"
+    },
+    {
+        "abbreviation": "BTN",
+        "country": "Bhutan"
+    },
+    {
+        "abbreviation": "CMR",
+        "country": "Cameroon"
+    },
+    {
+        "abbreviation": "AND",
+        "country": "Andorra"
+    },
+    {
+        "abbreviation": "GLP",
+        "country": "Guadeloupe"
+    },
+    {
+        "abbreviation": "COG",
+        "country": "Republic of the Congo"
+    },
+    {
+        "abbreviation": "REU",
+        "country": "Réunion"
+    },
+    {
+        "abbreviation": "BFA",
+        "country": "Burkina Faso"
+    },
+    {
+        "abbreviation": "JOR",
+        "country": "Jordan"
+    },
+    {
+        "abbreviation": "COD",
+        "country": "DR Congo"
+    },
+    {
+        "abbreviation": "TKL",
+        "country": "Tokelau"
+    },
+    {
+        "abbreviation": "VNM",
+        "country": "Vietnam"
+    },
+    {
+        "abbreviation": "SXM",
+        "country": "Sint Maarten"
+    },
+    {
+        "abbreviation": "BEL",
+        "country": "Belgium"
+    },
+    {
+        "abbreviation": "UMI",
+        "country": "United States Minor Outlying Islands"
+    },
+    {
+        "abbreviation": "BRA",
+        "country": "Brazil"
+    },
+    {
+        "abbreviation": "BLZ",
+        "country": "Belize"
+    },
+    {
+        "abbreviation": "ATG",
+        "country": "Antigua and Barbuda"
+    },
+    {
+        "abbreviation": "PRY",
+        "country": "Paraguay"
+    },
+    {
+        "abbreviation": "BEN",
+        "country": "Benin"
+    },
+    {
+        "abbreviation": "BRN",
+        "country": "Brunei"
+    },
+    {
+        "abbreviation": "BOL",
+        "country": "Bolivia"
+    },
+    {
+        "abbreviation": "DJI",
+        "country": "Djibouti"
+    },
+    {
+        "abbreviation": "GUF",
+        "country": "French Guiana"
+    },
+    {
+        "abbreviation": "CAN",
+        "country": "Canada"
+    },
+    {
+        "abbreviation": "SPM",
+        "country": "Saint Pierre and Miquelon"
+    },
+    {
+        "abbreviation": "JPN",
+        "country": "Japan"
+    },
+    {
+        "abbreviation": "RWA",
+        "country": "Rwanda"
+    },
+    {
+        "abbreviation": "VCT",
+        "country": "Saint Vincent and the Grenadines"
+    },
+    {
+        "abbreviation": "ISL",
+        "country": "Iceland"
+    },
+    {
+        "abbreviation": "BLR",
+        "country": "Belarus"
+    },
+    {
+        "abbreviation": "HKG",
+        "country": "Hong Kong"
+    },
+    {
+        "abbreviation": "LSO",
+        "country": "Lesotho"
+    },
+    {
+        "abbreviation": "FJI",
+        "country": "Fiji"
+    },
+    {
+        "abbreviation": "AUT",
+        "country": "Austria"
+    },
+    {
+        "abbreviation": "COL",
+        "country": "Colombia"
+    },
+    {
+        "abbreviation": "GAB",
+        "country": "Gabon"
+    },
+    {
+        "abbreviation": "SAU",
+        "country": "Saudi Arabia"
+    },
+    {
+        "abbreviation": "SGS",
+        "country": "South Georgia"
+    },
+    {
+        "abbreviation": "ETH",
+        "country": "Ethiopia"
+    },
+    {
+        "abbreviation": "BES",
+        "country": "Caribbean Netherlands"
+    },
+    {
+        "abbreviation": "MCO",
+        "country": "Monaco"
+    },
+    {
+        "abbreviation": "PRK",
+        "country": "North Korea"
+    },
+    {
+        "abbreviation": "ITA",
+        "country": "Italy"
+    },
+    {
+        "abbreviation": "NAM",
+        "country": "Namibia"
+    },
+    {
+        "abbreviation": "MNG",
+        "country": "Mongolia"
+    },
+    {
+        "abbreviation": "SLB",
+        "country": "Solomon Islands"
+    },
+    {
+        "abbreviation": "YEM",
+        "country": "Yemen"
+    },
+    {
+        "abbreviation": "ROU",
+        "country": "Romania"
+    },
+    {
+        "abbreviation": "SJM",
+        "country": "Svalbard and Jan Mayen"
+    },
+    {
+        "abbreviation": "FRA",
+        "country": "France"
+    }
+]

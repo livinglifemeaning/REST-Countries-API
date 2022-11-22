@@ -1,0 +1,13 @@
+@import url(./variables.css);
+@import url(./reset.css); 
+
+body{
+    font-family: var(--f-primary); 
+    background-color: var(--background);
+    font-weight: 300; 
+}
+
+a{
+    text-decoration: none;
+    color: inherit; 
+}

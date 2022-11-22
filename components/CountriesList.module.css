@@ -1,0 +1,92 @@
+.filterBar{
+    display: flex; 
+    justify-content: space-between;
+    margin-bottom: 3rem; 
+}
+
+.inputBox{
+    background-color: var(--element);
+    box-shadow: var(--box-shadow);
+    border-radius: 5px; 
+    padding: .5em 1rem; 
+    display: flex; 
+    gap: 1rem; 
+    flex-grow: 1;
+    max-width: 30rem; 
+}
+
+.inputBox input{
+border: none; 
+background-color: transparent;
+color: var(--input); 
+font-weight: 600; 
+flex-grow: 1; 
+}
+
+.inputBox input:focus-visible{
+    outline: 0; 
+}
+
+.selectBox{
+    background-color: var(--element);
+    box-shadow: var(--box-shadow);
+    cursor: pointer; 
+    padding: .5rem 1rem; 
+    border-radius: 5px;
+}
+.selectBox select{
+    font-family: inherit; 
+    color: var(--input); 
+    font-weight: 600;
+    border: none;  
+    background-color: var(--element); 
+}
+
+.selectBox select:focus-visible{
+    outline: none; 
+}
+
+
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: grid;  
+  gap: 2rem; 
+  
+}
+.card{
+    background-color: var(--element); 
+    box-shadow: var(--box-shadow); 
+    border-radius: .5rem; 
+}
+
+.flag{
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+    height: 12rem; 
+  width: 100%; 
+}
+
+.infoBox{
+    padding: 1rem; 
+    color: var(--text); 
+}
+
+.info{
+    font-weight: 600; 
+}
+.info span{
+    font-weight: 300; 
+}
+.name{
+font-weight: 800;
+font-size: 1.2rem; 
+margin-bottom: .5rem; 
+}
+@media (min-width: 45em) {
+    .list{
+        grid-template-columns: repeat(4, 1fr);
+        gap: 3rem; 
+    }
+}
