@@ -2,17 +2,18 @@ import Head from "next/head";
 import Country from "../../components/Country";
 import countryAbbreviations from "../../components/countryAbbreviations.json";
 const CountryPage = (props) => {
+  console.log(props)
   return (
     <>
       <Head>
         <title>{props.countryData.name}</title>
         <meta
           name="description"
-          content={`Facts about the country of ${props.countryData.name}`}
+          content={`Facts about the country of ${props.countryData.name ? props.countryData.name : null}`}
         />
         <link rel="icon" href="/favicon-32x32.png" />
       </Head>
-      <Country countryData={props.countryData} />
+      <Country countryData={props.countryData ? props.countryData : null} />
     </>
   );
 };
