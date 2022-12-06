@@ -1,14 +1,17 @@
-import Head from "next/head"
+import Head from "next/head";
 import Country from "../../components/Country";
 import countryAbbreviations from "../../components/countryAbbreviations.json";
 const CountryPage = (props) => {
   return (
     <>
-    <Head>
-      <title>{props.countryData.name}</title>
-      <meta name="description" content={`Facts about the country of ${props.countryData.name}`}/>
-      <link rel="icon" href="/favicon-32x32.png"/> 
-    </Head>
+      <Head>
+        <title>{props.countryData.name}</title>
+        <meta
+          name="description"
+          content={`Facts about the country of ${props.countryData.name}`}
+        />
+        <link rel="icon" href="/favicon-32x32.png" />
+      </Head>
       <Country countryData={props.countryData} />
     </>
   );
@@ -24,7 +27,7 @@ export async function getStaticPaths() {
   }
 
   return {
-    fallback: "true",
+    fallback: true,
     paths: loadedNames.map((name) => ({ params: { country: name } })),
   };
 }
