@@ -6,7 +6,7 @@ const CountryPage = (props) => {
   return (
     <>
       <Head>
-        <title>{props.countryData.name}</title>
+        <title>{props.countryData.name ? props.countryData.name : "Country"}</title>
         <meta
           name="description"
           content={`Facts about the country of ${props.countryData.name ? props.countryData.name : null}`}
