@@ -51,31 +51,36 @@ export async function getStaticProps(context) {
 
   let currencies = [];
 
-  if (Object.keys(data[0].currencies).length > 0) {
-    for (let i = 0; i < Object.keys(data[0].currencies).length; i++) {
-      currencies.push(
-        data[0].currencies[Object.keys(data[0].currencies)[i]].name
-      );
+  if (data[0].currencies) {
+    if (Object.keys(data[0].currencies).length > 0) {
+      for (let i = 0; i < Object.keys(data[0].currencies).length; i++) {
+        currencies.push(
+          data[0].currencies[Object.keys(data[0].currencies)[i]].name
+        );
+      }
+    } else {
+      currencies.push(data[0].currencies[Object.keys(data[0].currencies)].name);
     }
   } else {
-    currencies.push(data[0].currencies[Object.keys(data[0].currencies)].name);
+    currencies.push("None");
   }
 
   let countryData = {
     name: data[0].name.common,
-    nativeName:
-      data[0].name.nativeName[
-        Object.keys(data[0].name.nativeName)[
-          Object.keys(data[0].name.nativeName).length - 1
-        ]
-      ].common,
+    nativeName: data[0].name.nativeName
+      ? data[0].name.nativeName[
+          Object.keys(data[0].name.nativeName)[
+            Object.keys(data[0].name.nativeName).length - 1
+          ]
+        ].common
+      : "None",
     population: data[0].population,
     region: data[0].region,
-    subregion: data[0].subregion,
+    subregion: data[0].subregion ? data[0].subregion : "None",
     capital: data[0].capital ? data[0].capital[0] : "None",
-    domain: data[0].tld,
+    domain: data[0].tld ? data[0].tld : ["None"],
     currencies: currencies,
-    languages: Object.values(data[0].languages),
+    languages: data[0].languages ? Object.values(data[0].languages) : ["None"],
     borderingCountries: data[0].borders ? borderingCountriesFullNames : "None",
     flag: data[0].flags.svg,
   };
