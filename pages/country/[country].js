@@ -6,14 +6,14 @@ const CountryPage = (props) => {
   return (
     <>
       <Head>
-        <title>{props.countryData.name ? props.countryData.name : "Country"}</title>
+        <title>{props.countryData.name}</title>
         <meta
           name="description"
-          content={`Facts about the country of ${props.countryData.name ? props.countryData.name : null}`}
+          content={`Facts about the country of ${props.countryData.name}`}
         />
         <link rel="icon" href="/favicon-32x32.png" />
       </Head>
-      <Country countryData={props.countryData ? props.countryData : null} />
+      <Country countryData={props.countryData} />
     </>
   );
 };
@@ -29,7 +29,7 @@ export async function getStaticPaths() {
 
   return {
     fallback: true,
-    paths: loadedNames.map((name) => ({ params: { country: name } })),
+    paths: loadedNames.length > 0 ? loadedNames.map((name) => ({ params: { country: name } })) : null,
   };
 }
 
@@ -85,6 +85,7 @@ export async function getStaticProps(context) {
     borderingCountries: data[0].borders ? borderingCountriesFullNames : "None",
     flag: data[0].flags.svg,
   };
+
   return {
     props: {
       countryData: countryData,
