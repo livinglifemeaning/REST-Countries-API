@@ -19,7 +19,6 @@ const Country = ({ countryData }) => {
   const flag = countryData.flag;
   return (
     <>
-    
       <Link href="/countries/">
         <button className={classes.btn}>
           <span>
@@ -71,7 +70,9 @@ const Country = ({ countryData }) => {
             <p>Border Countries:</p>
             <ul className={classes.borderCountries}>
               {Array.isArray(borderingCountries) ? (
-                borderingCountries.map((country) => <li>{country}</li>)
+                borderingCountries.map((country) => (
+                  <li key={country}>{country}</li>
+                ))
               ) : (
                 <li>None</li>
               )}
