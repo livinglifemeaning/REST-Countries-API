@@ -2,7 +2,6 @@ import Head from "next/head";
 import Country from "../../components/Country";
 import countryAbbreviations from "../../components/countryAbbreviations.json";
 const CountryPage = (props) => {
-  console.log(props)
   return (
     <>
       <Head>
@@ -26,10 +25,13 @@ export async function getStaticPaths() {
   for (let i = 0; i < data.length; i++) {
     loadedNames.push(data[i].name.common);
   }
-
+console.log(loadedNames)
   return {
-    fallback: true,
-    paths: loadedNames.length > 0 ? loadedNames.map((name) => ({ params: { country: name } })) : null,
+    fallback: blocking,
+    paths:
+      loadedNames.length > 0
+        ? loadedNames.map((name) => ({ params: { country: name } }))
+        : null,
   };
 }
 
