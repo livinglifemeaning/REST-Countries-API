@@ -27,7 +27,7 @@ export async function getStaticPaths() {
   }
 console.log(loadedNames)
   return {
-    fallback: blocking,
+    fallback: "blocking",
     paths:
       loadedNames.length > 0
         ? loadedNames.map((name) => ({ params: { country: name } }))
