@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/livinglifemeaning/REST-Countries-API
+- Live Site URL: https://rest-countries-api-livinglifemeaning.vercel.app/
 
 
 ### Built with
@@ -34,3 +34,4 @@ Users should be able to:
 ### Notes
 
 Est Time to Complete : 8hrs | Actual Time: 6hrs 45m
+- took awhile to figure out how to deploy on vercel because I had to offer null data until the static props could be generated
